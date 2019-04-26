@@ -2,6 +2,7 @@
 SangerMutantLibraryAnalysis
 =============================
 
+### This code is associated with the paper from Soh et al., "Comprehensive mapping of adaptation of the avian influenza polymerase protein PB2 to humans". eLife, 2019. http://dx.doi.org/10.7554/eLife.45079
 
 Summary
 -----------
